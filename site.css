@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(237, 240, 196);
+}
+
+.Title {
+    font-size: 38px;
+    color: rgb(23, 22, 14);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    font-family: cursive;
+
+}
+
+
+.line {
+    height: 8px;
+    background-color: rgb(18, 34, 7);
+}
+
+.textArea {
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border-color: rgb(57, 189, 85);
+    box-shadow: 0 1px 1px rgba(19, 37, 115, 0.075)inset, 0 0 8px rgba(23, 174, 219, 0.6);
+    outline: 0 none;
+    border-bottom-width: thick;
+    width: 300px;
+    margin-left: 630px;
+    text-align: center;
+}
+
+#decryptButton {
+    margin-top: 20px;
+    margin-left: 725px;
+    color: rgb(3, 23, 5);
+    font-weight: bold;
+    background-color: rgb(57, 189, 85);
+    border-color: rgb(59, 164, 59);
+    box-shadow: 0 1px 1px rgba(19, 37, 115, 0.075)inset, 0 0 8px rgba(23, 174, 219, 0.6);
+    outline: 0 none;
+    border-bottom-width: thick;
+    border-radius: 8px;
+}
+
+#encryptButton {
+    margin-top: 20px;
+    margin-left: 725px;
+    color: rgb(2, 15, 3);
+    font-weight: bold;
+    background-color: rgb(57, 189, 85);
+    border-color: rgb(59, 164, 59);
+    box-shadow: 0 1px 1px rgba(19, 37, 115, 0.075)inset, 0 0 8px rgba(23, 174, 219, 0.6);
+    outline: 0 none;
+    border-bottom-width: thick;
+    border-radius: 8px;
+}
